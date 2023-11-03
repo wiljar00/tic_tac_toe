@@ -18,3 +18,4 @@ _Here's a snippet of the game in action_
 1. Look into some index bug with the player 2 entries
 2. Create an AI to play as player 2
 3. Handle Winner message better. Maybe have Ferris the Rustacean announce the winner..
+4. Refactor main file. Explore different patterns with functions in other files. 
