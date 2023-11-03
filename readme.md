@@ -12,3 +12,9 @@ This runs the app as a command line program, like the good ol' days.
 _Here's a snippet of the game in action_ 
 
 ![Preview image](./src/demo.png)
+
+
+### _TODO:_
+1. Look into some index bug with the player 2 entries
+2. Create an AI to play as player 2
+3. Handle Winner message better. Maybe have Ferris the Rustacean announce the winner..
